@@ -3,7 +3,7 @@
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-73oq"><img src="images/Profile.png" width="200" height="150"></td>
+    <td class="tg-73oq"><a href="https://gearlux.github.io/"><img src="images/Profile.png" width="200" height="150"></a></td>
     <td class="tg-73oq"><a href="https://gearlux.github.io/">
                         <img src="images/qr-code.png" width="150" height="150"></a></td>
   </tr>
