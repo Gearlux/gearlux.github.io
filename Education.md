@@ -1,3 +1,9 @@
+<a href="Ambition.html"><img src="images/prev.png" width="40" height="40"></a>
+<a href="index.html"><img src="images/back.png" width="40" height="40"></a>
+<a href="Work.html"><img src="images/next.png" width="40" height="40"></a>
+
+# Personal Details 
+
 <table class="tg">
 <thead>
   <tr>
@@ -55,3 +61,7 @@
 | 2017 | GROW <br>  -	What is leadership? <br>  -	Fundamental coaching tools <br>  -	Active listening <br>  -	Developing your team’s skills <br>  -	Give constructive feedback	| Agfa | No |
 | 2019 | JIRA & Confluence |Agfa | No |
 |	| FDA <br>  -	FDA Awareness training <br>  -	Supporting an audit	| Agfa | No |
+
+<a href="Ambition.html"><img src="images/prev.png" width="40" height="40"></a>
+<a href="index.html"><img src="images/back.png" width="40" height="40"></a>
+<a href="Work.html"><img src="images/next.png" width="40" height="40"></a>

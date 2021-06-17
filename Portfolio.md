@@ -1,3 +1,9 @@
+<a href="Extra.html"><img src="images/prev.png" width="40" height="40"></a>
+<a href="index.html"><img src="images/back.png" width="40" height="40"></a>
+<a href="Publications.html"><img src="images/next.png" width="40" height="40"></a>
+
+# Personal Details 
+
 <table class="tg">
 <thead>
   <tr>
@@ -221,3 +227,7 @@ In this IWT-project and associated PhD, this was my introduction to image proces
 The main task of this project was the automatic registration, segmentation and classification of bones in digital RX for [automatic bone age assessment](https://en.wikipedia.org/wiki/Bone_age) with “[active shape models](https://en.wikipedia.org/wiki/Active_shape_model)”.  In order to build the models, [non rigid point matching](https://www.cise.ufl.edu/~anand/students/chui/tps-rpm.html) was used to align several manual segmented bones. The segmentation was made ‘efficient’ by using dynamic programming within a special UI application. Before registration large scale inhomogeneities caused by the heel effect are compensated. The registration is done hierarchically, where first the hand is located and this location is further drilled down to fingers and bones. The position of the bones is used as a starting position for the active shape models. 
 
 ![](images/bone.png)![](images/hand_registration.png)![](images/hand_segmentation.png)
+
+<a href="Extra.html"><img src="images/prev.png" width="40" height="40"></a>
+<a href="index.html"><img src="images/back.png" width="40" height="40"></a>
+<a href="Publications.html"><img src="images/next.png" width="40" height="40"></a>

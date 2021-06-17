@@ -1,3 +1,9 @@
+<a href="Work.html"><img src="images/prev.png" width="40" height="40"></a>
+<a href="index.html"><img src="images/back.png" width="40" height="40"></a>
+<a href="Portfolio.html"><img src="images/next.png" width="40" height="40"></a>
+
+# Personal Details 
+
 <table class="tg">
 <thead>
   <tr>
@@ -53,3 +59,6 @@
 - [Home Automation](https://github.com/Gearlux/SmartHome)
 - [Deep Learning](https://www.kaggle.com/gearlux)
 
+<a href="Work.html"><img src="images/prev.png" width="40" height="40"></a>
+<a href="index.html"><img src="images/back.png" width="40" height="40"></a>
+<a href="Portfolio.html"><img src="images/next.png" width="40" height="40"></a>

@@ -1,3 +1,9 @@
+<a href="Education.html"><img src="images/prev.png" width="40" height="40"></a>
+<a href="index.html"><img src="images/back.png" width="40" height="40"></a>
+<a href="Extra.html"><img src="images/next.png" width="40" height="40"></a>
+
+# Personal Details 
+
 <table class="tg">
 <thead>
   <tr>
@@ -72,3 +78,6 @@ The position is described in more detail in the [portfolio](Portfolio.md)
 | German | Beginner |Beginner |
 | French | Proficient | Intermediate |
 
+<a href="Education.html"><img src="images/prev.png" width="40" height="40"></a>
+<a href="index.html"><img src="images/back.png" width="40" height="40"></a>
+<a href="Extra.html"><img src="images/next.png" width="40" height="40"></a>
