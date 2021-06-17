@@ -1,3 +1,7 @@
+<a href="index.html"><img src="images/prev.png" width="20" height="20"></a>
+<a href="index.html"><img src="images/back.png" width="20" height="20"></a>
+<a href="Education.html"><img src="images/next.png" width="20" height="20"></a>
+
 <table class="tg">
 <thead>
   <tr>
@@ -55,3 +59,7 @@ My ambition is to combine my experience to identify future opportunities and coa
 In parallel, I like to keep up to date with new technologies and software architecture and further investigate development planning techniques. 
 Preferably, I combine this with hands-on development of technically challenging projects.
 With the mindset of ‘the sky is the limit’, I also like to prototype innovative ideas from which the ‘differentiators’ are transferred to products.
+
+<a href="index.html"><img src="images/prev.png" width="20" height="20"></a>
+<a href="index.html"><img src="images/back.png" width="20" height="20"></a>
+<a href="Education.html"><img src="images/next.png" width="20" height="20"></a>
