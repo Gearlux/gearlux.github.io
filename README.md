@@ -1,6 +1,6 @@
-# Personal Details 
+<a href="Ambition.html"><img src="images/next.png" width="40" height="40"></a>
 
-<a href="Ambition.html"><img src="images/next.png" width="20" height="20"></a>
+# Personal Details 
 
 <table class="tg">
 <thead>
@@ -45,4 +45,4 @@
 
 ## [Publications](Publications.md)
 
-<a href="Ambition.html"><img src="images/next.png" width="20" height="20"></a>
+<a href="Ambition.html"><img src="images/next.png" width="40" height="40"></a>
