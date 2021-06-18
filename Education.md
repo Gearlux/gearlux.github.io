@@ -40,9 +40,9 @@
 
 |	  | Period	| Education & Projects	| Diploma |
 | --- | ------- | --------------------- | ------- |
-| [<img src="images/kuleuven.png">](https://www.kuleuven.be/kuleuven/)<br>KULeuven | 1990&#x2011;1994 | **Master of Science in Physics** <br> Major: Mathematical Plasma-Astrophysics | Yes |
-| [<img src="images/kuleuven.png">](https://www.kuleuven.be/kuleuven/)<br>KULeuven | 1994&#x2011;1996	| **Master of Science in Applied Informatics** <br> First in class <br> Major: Computer Graphics | Yes |
-| [<img src="images/kuleuven.png">](https://www.kuleuven.be/kuleuven/)<br>KULeuven	| 1998&#x2011;2002	 | **PhD Program – Medical Image Processing** <br> Automatic registration, segmentation and <br> classification of bones in digital RX <br> for automatic bone age assessment with “active shape models” | No |
+| [<img src="images/kuleuven2.png" width="100">](https://www.kuleuven.be/kuleuven/) | 1990&#x2011;1994 | **Master of Science in Physics** <br> Major: Mathematical Plasma-Astrophysics | Yes |
+| [<img src="images/kuleuven2.png" width="100">](https://www.kuleuven.be/kuleuven/) | 1994&#x2011;1996	| **Master of Science in Applied Informatics** <br> First in class <br> Major: Computer Graphics | Yes |
+| [<img src="images/kuleuven2.png" width="100">](https://www.kuleuven.be/kuleuven/) | 1998&#x2011;2002	 | **PhD Program – Medical Image Processing** <br> Automatic registration, segmentation and <br> classification of bones in digital RX <br> for automatic bone age assessment with “active shape models” | No |
 
 ## Courses
 
