@@ -1,4 +1,4 @@
-<a href="Portfolio.html"><img src="images/prev.png" width="40" height="40"></a>
+<a href="CR.html"><img src="images/prev.png" width="40" height="40"></a>
 <a href="index.html"><img src="images/back.png" width="40" height="40"></a>
 
 # Personal Details 
@@ -74,5 +74,5 @@
 -	**G. Behiels**, *Method of adjusting settings of a radiation image recording system taking into account patient movement*, US Patent App 16/340,167 – 2019
 -	**G. Behiels**, *Method of adjusting settings of a radiation image recording system*, US Patent App 16/341,167 – 2019
 
-<a href="Portfolio.html"><img src="images/prev.png" width="40" height="40"></a>
+<a href="CR.html"><img src="images/prev.png" width="40" height="40"></a>
 <a href="index.html"><img src="images/back.png" width="40" height="40"></a>

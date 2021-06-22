@@ -41,7 +41,8 @@
 - [Tomosynthesis](Tomosynthesis.md)
 - [Deep learning projects](DeepLearning.md).
 - [DR projects](DR.md)
-- [...](Mammo.md)
+- [Mammography](Mammo.md)
+- [...][CR.md]
 
 ## [Publications](Publications.md)
 
