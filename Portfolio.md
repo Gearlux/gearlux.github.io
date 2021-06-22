@@ -42,13 +42,18 @@ Technology innovation project for automatic patient thickness measurement and au
 ![](images/smartxr.jpg)
  
 ### Task
-The main goal of this project is to assist the radiographers in their workflow while taking X-Ray images. Because the experience of the radiographers has reduced the last decades, I saw the opportunity for Agfa to implement a program to raise the knowledge bar and assist the radiographers in their daily work with [SmartXR](https://medimg.agfa.com/main/direct-radiography/smartxr/).
+The main goal of this project is to assist the radiographers in their workflow while taking X-Ray images. Because the experience of the radiographers has reduced the last decades, I saw the opportunity for Agfa to implement a program to raise the knowledge bar and assist the radiographers in their daily work with [SmartXR](https://medimg.agfa.com/main/direct-radiography/smartxr/).  
 
 ### Action
 After a prioritization round, the first four pillars for SmartXR were determined. This included the estimation of risk, effort and value from a large set of features. Collaboration with universities for the different topics were set up, work was divided across multiple teams and development followed up. With custom trello scripts, overview gantt charts are created combining all phases, steps and projects.
 
 ![](images/trello.png)![](images/taskjuggler.png)
-   
+
+Besides the planning, I was technically responsible for the selection and calibration of the camera's. Agfa's choice not to use industrial grade depth camera's, has led to a calibration method of consumer camera's which could be performed quickly on site by a service technician. For the mobile system, where we could not rely on a fixed pattern and a calibrated system, our calibration method was further simplified, with a focus on the accuracy within the X-ray beam field.
+
+Currently, I am still working on new 'demonstrators' which showcase the potential of new features before being implemented into new product features.  One of these demonstrators is a small framework to create instructional videos for difficult exams, where each of the steps which needs to be performed by the radiographers is illustrated with a virtual patient or avatar.   
+
+<video>  <source src="movies/rockwood_positioning.mkv" type="video/mp4"></video>
 
 ### Result
 The result of this project was one of the largest successful product launches of Agfa. The project is now the core of new features being implemented to further assist and automate the workflow of the radiographer. 
