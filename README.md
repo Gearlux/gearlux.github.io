@@ -38,10 +38,10 @@
 ## [Extracurricular Activities and Interests](Extra.md)
 ## [Portfolio](Portfolio.md)
 - [SmartXR](Portfolio.md#smartxr)
-- [Tomosynthesis](DeepLearning.md#tomosynthesis)
-- [Deep learning projects](DeepLearning.md#deep-learning-projects).
-- [DR Roadmap](DeepLearning.md#dr-roadmap)
-- [...](DeepLearning.md#full-leg-full-spine)
+- [Tomosynthesis](Tomosynthesis.md)
+- [Deep learning projects](DeepLearning.md).
+- [DR projects](DR.md)
+- [...](Mammo.md)
 
 ## [Publications](Publications.md)
 
