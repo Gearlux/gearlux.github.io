@@ -42,7 +42,7 @@
 - [Deep learning projects](DeepLearning.md).
 - [DR projects](DR.md)
 - [Mammography](Mammo.md)
-- [...][CR.md]
+- [...](CR.md)
 
 ## [Publications](Publications.md)
 
