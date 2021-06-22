@@ -53,7 +53,7 @@ Besides the planning, I was technically responsible for the selection and calibr
 
 Currently, I am still working on new 'demonstrators' which showcase the potential of new features before being implemented into new product features.  One of these demonstrators is a small framework to create instructional videos for difficult exams, where each of the steps which needs to be performed by the radiographers is illustrated with a virtual patient or avatar.   
 
-<video controls autoplay>  <source src="movies/rockwood_positioning.mkv" type="video/mp4"></video>
+<video controls autoplay height="320">  <source src="movies/rockwood_positioning.mkv" type="video/mp4"></video>
 
 ### Result
 The result of this project was one of the largest successful product launches of Agfa. The project is now the core of new features being implemented to further assist and automate the workflow of the radiographer. 
