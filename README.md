@@ -38,8 +38,8 @@
 ## [Extracurricular Activities and Interests](Extra.md)
 ## [Portfolio](Portfolio.md)
 - [SmartXR](Portfolio.md#smartxr)
-- [Tomosynthesis](Tomosynthesis.md)
 - [Deep learning projects](DeepLearning.md).
+- [Tomosynthesis](Tomosynthesis.md)
 - [DR projects](DR.md)
 - [Mammography](Mammo.md)
 - [...](CR.md)

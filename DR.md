@@ -42,13 +42,20 @@
 Identify opportunities for Agfa to improve its portfolio within Direct Radiography.
 
 ### Action
-Together with application and marketing, we contacted several radiographers and radiologists and interviewed them for their opinion on features, future vision, possible improvements, new technology. 
+Together with application and marketing, we contacted several radiographers and radiologists and interviewed them for their opinion on features, future vision, possible improvements and new technology. 
 
 ### Result
-The result was a roadmap where key topics were identified: mobile imaging, workflow, improved diagnosis and image consistency. This was the beginning of the development of the 
-[Tomosynthesis](Portfolio.md#tomosynthesis), 
-[SmartXR](Portfolio.md#smartxr) and 
-[Deep learning projects](Portfolio.md#deep-learning-projects).
+The result was a roadmap where key topics were identified: 
+* mobile imaging
+* workflow
+* improved diagnosis 
+* image consistency. 
+
+This was the beginning of the development of 
+* [Tomosynthesis](Tomosynthesis.md) (*improved diagnosis*)
+* mobile tomosynthesis (*improved diagnosis*, *mobile imaging*)
+* [SmartXR](Portfolio.md#smartxr) (*workflow*, *image consistency*, *mobile imaging*)
+* [Deep learning projects](DeepLearning.md) (*workflow*, *image consistency*)
 
 ### Responsibilities
 Innovation Manager, Software Architect, Team Lead
@@ -70,6 +77,9 @@ I developed the interface to the modality, the module computing the optimal posi
 A new stitch grid, a new patient stand and new, more robust algorithms were designed, implemented and validated. 
 
 ![](images/grid.png)
+
+[//]: # (Include a full leg full spine stitched image)
+
 
 ### Responsibilities
 Project Lead, Software Developer
