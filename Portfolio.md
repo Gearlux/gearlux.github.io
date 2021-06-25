@@ -39,7 +39,7 @@
 ## [SmartXR](https://medimg.agfa.com/main/direct-radiography/smartxr/)
 Technology innovation project for automatic patient thickness measurement and augmented reality with depth cameras. Optimising workflow with the aid of intelligent sensors and artificial intelligence: [SmartAlign](https://www.youtube.com/watch?v=9JK6VvTmHKw&list=PLZUHziR7BH05hZpypM6EbExV5jlN15Dge&index=3&ab_channel=AgfaRadiologySolutions), [SmartDose](https://www.youtube.com/watch?v=hFiWwWdyD-8&list=PLZUHziR7BH05hZpypM6EbExV5jlN15Dge&index=4&ab_channel=AgfaRadiologySolutions), [SmartRotate](https://www.youtube.com/watch?v=qIXslnTsih4&list=PLZUHziR7BH05hZpypM6EbExV5jlN15Dge&index=5&ab_channel=AgfaRadiologySolutions), [SmartPositioning](https://www.youtube.com/watch?v=CkWlYKfAxLE&list=PLZUHziR7BH05hZpypM6EbExV5jlN15Dge&ab_channel=AgfaRadiologySolutions). 
 
-<img src="images/smartxr.jpg" width="800">
+<img src="images/smartxr.jpg" width="700">
  
 ### Task
 The main goal of this project is to assist the radiographers in their workflow while taking X-Ray images. Because the experience of the radiographers has reduced the last decades, I saw the opportunity for Agfa to implement a program to raise the knowledge bar and assist the radiographers in their daily work with [SmartXR](https://medimg.agfa.com/main/direct-radiography/smartxr/).  
@@ -47,8 +47,8 @@ The main goal of this project is to assist the radiographers in their workflow w
 ### Action
 After a prioritization round, the first four pillars for SmartXR were determined. This included the estimation of risk, effort and value from a large set of features. Collaboration with universities for the different topics were set up, work was divided across multiple teams and development followed up. With custom trello scripts, overview gantt charts are created combining all phases, steps and projects.
 
-<img src="images/trello.png" width="200">
-<img src="images/taskjuggler.png" width="600">
+<img src="images/trello.png" width="150">
+<img src="images/taskjuggler.png" width="450">
 
 Besides the planning, I was technically responsible for the selection and calibration of the camera's. Agfa's choice not to use industrial grade depth camera's, has led to a calibration method of consumer camera's which could be performed quickly on site by a service technician. For the mobile system, where we could not rely on a fixed pattern and a calibrated system, our calibration method was further simplified, with a focus on the accuracy within the X-ray beam field.
 
