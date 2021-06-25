@@ -63,8 +63,7 @@ I am also looking into a new method that estimates the thickness without the nee
 
 ### Blindness detection
 
-<img src="images/aptos.jpg" width="200">
-
+![](images/aptos.jpg){: style="float: left"}
 While the team was actively implementing segmentation and detection networks, 
 I wanted to check our position compared to the rest of the deep learning community.
 In order to check my skills for deep learning, I participated in the [APTOS 2019 Blindness Detection competition](https://www.kaggle.com/c/aptos2019-blindness-detection/overview). 
