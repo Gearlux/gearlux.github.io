@@ -63,6 +63,7 @@
 | 2017 | GROW <br>  -	What is leadership? <br>  -	Fundamental coaching tools <br>  -	Active listening <br>  -	Developing your team’s skills <br>  -	Give constructive feedback	| Agfa | No |
 | 2019 | JIRA & Confluence |Agfa | No |
 | 2021 | Clinical Evaluation RSD | Agfa | No |
+| 2023 | [Low-Bit Quantized Neural Networks](https://sites.google.com/view/lbqnn-iccv-23/home) <br> [Understanding the In-Camera Rendering Pipeline and the role of AI/Deep Learning](https://www.eecs.yorku.ca/~mbrown/ICCV2023_Brown.html) | [ICCV](https://iccv2023.thecvf.com/) | No |
 
 <a href="Ambition.html"><img src="images/prev.png" width="40" height="40"></a>
 <a href="index.html"><img src="images/back.png" width="40" height="40"></a>

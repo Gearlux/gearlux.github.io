@@ -1,6 +1,6 @@
 <a href="Work.html"><img src="images/prev.png" width="40" height="40"></a>
 <a href="index.html"><img src="images/back.png" width="40" height="40"></a>
-<a href="Portfolio.html"><img src="images/next.png" width="40" height="40"></a>
+<a href="nearbAI.html"><img src="images/next.png" width="40" height="40"></a>
 
 # Personal Details 
 
@@ -47,6 +47,7 @@
 - Playing badminton, running or biking when there is no wind or snow.
 - Team captain of the best veteran badminton team in Antwerp, where best stands for fair play, humor and tactical excellence.
 - Hobby cook
+- 3D Printing, CNC and laser cutting
 
 # Interests
 - Music
@@ -55,8 +56,8 @@
 - Travel
 
 # Projects for rainy days
+- [metArt](https:://metart.be)
 - [WordClock](https://github.com/Gearlux/NeoWordClock)
-- [Home Automation](https://github.com/Gearlux/SmartHome)
 - [Deep Learning](https://www.kaggle.com/gearlux)
 
 <a href="Work.html"><img src="images/prev.png" width="40" height="40"></a>
