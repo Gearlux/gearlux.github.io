@@ -57,8 +57,8 @@ As an innovation manager, I manage to capture the long term needs from customers
 With custom Trello scripts, I follow up and adjust the planning for competitive solutions. 
 Such a solution development, typically is divided in stages, where the risk of the project is reduced across these stages.
 
-My ambition is to combine my experience to identify future opportunities and coach and follow up team members and projects during the efficient development of solutions, as a team lead or as a senior member of an enthusiastic team.
-In parallel, I like to keep up to date with new technologies and software architecture and further investigate development planning techniques. 
+My ambition is to combine my experience to identify future opportunities of interesting projects and help with the efficient development of solutions, as a team lead or as a senior member of an enthusiastic team.
+In parallel, I like to keep up to date with new technologies and software architecture.
 Preferably, I combine this with hands-on development of technically challenging projects.
 With the mindset of ‘the sky is the limit’, I also like to prototype innovative ideas from which the ‘differentiators’ are transferred to products.
 
