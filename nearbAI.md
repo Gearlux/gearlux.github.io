@@ -64,6 +64,9 @@ I am not entirely happy with the results of this [IAT](https://github.com/cuizit
 
 <img src="images/night_vision.png" width="100%">
 
+<a href="Extra.html"><img src="images/prev.png" width="40" height="40"></a>
+<a href="index.html"><img src="images/back.png" width="40" height="40"></a>
+<a href="denoising.html"><img src="images/next.png" width="40" height="40"></a>
 
 
 

@@ -75,3 +75,7 @@ Let's further extend the image processing pipeline. We use following  [license p
 </table>
 
 Construction of a good image processing pipeline, when done in the correct order, can improve the results of classification and detection networks.
+
+<a href="denoising.html"><img src="images/prev.png" width="40" height="40"></a>
+<a href="index.html"><img src="images/back.png" width="40" height="40"></a>
+<a href="Portfolio.html"><img src="images/next.png" width="40" height="40"></a>

@@ -63,3 +63,6 @@ When we take a RAW bayer image from the internet, we manage to almost completely
 
 <img src="images/eye.png" width="100%">
 
+<a href="nearbAI.html"><img src="images/prev.png" width="40" height="40"></a>
+<a href="index.html"><img src="images/back.png" width="40" height="40"></a>
+<a href="usecase.html"><img src="images/next.png" width="40" height="40"></a>
