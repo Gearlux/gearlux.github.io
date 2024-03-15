@@ -43,7 +43,8 @@
 |[<img src="images/kuleuven2.png"  width="100">](https://www.kuleuven.be/kuleuven/) | 1996&#x2011;1998 | *Researcher* <br> IWT ((Agentschap voor Innovatie door Wetenschap en Technologie) <br> [Departement of Electrical Engineering (ESAT)](https://www.esat.kuleuven.be/) <br> [Processing Speech and Images](https://www.esat.kuleuven.be/psi) |
 |[<img src="images/agfa.png"  width="100">](https://www.agfa.com/corporate/) | 	2002&#x2011;2008	| *Researcher* <br> [Radiology Solutions](https://medimg.agfa.com/main/) <br> [Computed Radiography](https://medimg.agfa.com/main/computed-radiography/) |
 |[<img src="images/agfa.png"  width="100">](https://www.agfa.com/corporate/) |	2008&#x2011;2012 | *Software Team Lead – Software Architect* <br> [Medical Imaging IT](https://global.agfahealthcare.com/) <br> [Mammography](https://global.agfahealthcare.com/breast-imaging/) |
-|[<img src="images/agfa.png"  width="100">](https://www.agfa.com/corporate/) | 	2012&#x2011;	| *Senior Researcher* <br> [Radiology Solutions](https://medimg.agfa.com/main/) <br> [Image Processing](https://medimg.agfa.com/main/musica/) & [Artificial Intelligence](https://medimg.agfa.com/main/smartxr/) |
+|[<img src="images/agfa.png"  width="100">](https://www.agfa.com/corporate/) | 	2012&#x2011;2022	| *Senior Researcher* <br> [Radiology Solutions](https://medimg.agfa.com/main/) <br> [Image Processing](https://medimg.agfa.com/main/musica/) & [Artificial Intelligence](https://medimg.agfa.com/main/smartxr/) |
+|[<img src="images/easics.png"  width="100">](https://www.easics.be/) | 2022&#x2011;	| *SW Architect nearbAI* <br> [nearbAI](https://www.easics.com/nearbai/) |
 
 The position is described in more detail in the [portfolio](Portfolio.md)
 
@@ -61,7 +62,10 @@ The position is described in more detail in the [portfolio](Portfolio.md)
 | OpenCL| | 2 years | | |
 | CUDA | | 2 years | | |
 | **Python** <br> - Numpy <br> - Scipy <br> - Scikit-learn <br> - skimage <br> - OpenCV <br> - PCL <br> - ITK <br> ...| | | | 17 years |
-| PyTorch | | 3 years | | |
+| PyTorch | | | 6 years | |
+| ONNX | | | 3 years | |
+| Tensorflow lite | | | 3 years | |
+| TVM | | 2 years | | |
 | Keras	| 1 year | | | |
 | **Equipment/Hardware/Tools** | | | | |	
 | Depth camera’s | | | 5 years	| |

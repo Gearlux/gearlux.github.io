@@ -56,7 +56,7 @@
 - Travel
 
 # Projects for rainy days
-- [metArt](https:://metart.be)
+- [metArt](http:://www.metart.be)
 - [WordClock](https://github.com/Gearlux/NeoWordClock)
 - [Deep Learning](https://www.kaggle.com/gearlux)
 
