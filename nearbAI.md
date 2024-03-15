@@ -39,12 +39,12 @@
 ## Neural Network accelerator
 
 The project started as a heavily optimized neural network compiler when I joined the team.
-Due to the heavy optimizations, specifically tuned for networks in the (DarkNet)[https://pjreddie.com/darknet/] framework, 
+Due to the heavy optimizations, specifically tuned for networks in the [DarkNet](https://pjreddie.com/darknet/) framework, 
 the compiler was not robust for new networks defined in [ONNX](https://onnx.ai/), [tensorflow lite](https://www.tensorflow.org/lite) or [pytorch](https://pytorch.org/).
 
 I managed the transition of a complete in-house developed framework to a compiler based on the [TVM](https://tvm.apache.org/) framework.
 This transition was the base of a robust compiler and also led to an optimized design of the hardware.
-Within this new design, the accelerator instructions were more complex but for a single convolution, not more than 7 instructions were needed.
+Within this new design, the accelerator instructions are more complex but for a single convolution, not more than 7 instructions are needed.
 In the first design, the number of instructions was dependent on the size of the input tensors, which led to a bottleneck on the memory bus.
 
 The new design is also further optimized to cope with the depthwise/pointwise convolutions present in most modern backbones (eg. [MobileNets](https://arxiv.org/abs/1704.04861))

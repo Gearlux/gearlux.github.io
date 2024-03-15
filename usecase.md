@@ -51,24 +51,26 @@ Taken from an image with a longer exposure time, we know that the license plate 
 #### Car detection
 
 The original image above is a 20MP image. Processing such an image requires a lot of processing power.
-To recognize the license plate, we first detect the car on a low resolution image with the a `fasterrcnn_mobilenet_v3_large_320_fpn` network. We see that applying the NightVision network first, the confidence of car detection increases from **90%** to **97%**. 
+To recognize the license plate, we first detect the car on a low resolution image with the a `fasterrcnn_mobilenet_v3_large_320_fpn` network. 
+We see that by applying the NightVision network first, the confidence of car detection increases from **90%** to **97%**. 
 
 <img src="images/original_car.png"/> <img src="images/nightvision_car.png"/>
 
-If you look closely to images, you can also see that the bounding box of the car on the original image is a little bit too small, not completely including the license plate.
+If you look closely to the images, you can also see that the bounding box of the car on the original image is a little bit too small, not completely including the license plate.
 
 #### License plate recognition
 
-Let's further extend the image processing pipeline. We use following  [license plate recognizer](https://platerecognizer.com/) to identify the license plate on the original and derived images.
+Let's further extend the image processing pipeline. 
+We use following  [license plate recognizer](https://platerecognizer.com/) to identify the license plate on the original and derived images.
 
 <table class="tg">
 <thead>
-<tr> <td> <b>Original</b> </td> <td> <b>Denoised</b> </td> </tr> 
+<tr> <td> <strong>Original</strong> </td> <td> <strong>Denoised</strong> </td> </tr> 
 <tr> 
 <td> <img src="images/lp_original.png"/> </td>
 <td> <img src="images/lp_denoised.png"/> </td>
 </tr>
-<tr> <td><b>Night Vision</b></td> <td><b>Denoised + Night Vision</b></td> </tr>
+<tr> <td><strong>Night Vision</strong></td> <td><strong>Denoised + Night Vision</strong></td> </tr>
 <td> <img src="images/lp_nightvision.png"/> </td>
 <td> <img src="images/lp_combined.png"/> </td>
 </thead>
