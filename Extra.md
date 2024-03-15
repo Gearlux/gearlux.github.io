@@ -45,7 +45,7 @@
 
 - Passionate windsurfer and skier. 
 - Playing badminton, running or biking when there is no wind or snow.
-- Team captain of the best veteran badminton team in Antwerp, where best stands for fair play, humor and tactical excellence.
+- Team captain of the [best veteran badminton team](https://www.badmintonvlaanderen.be/sport/league/team?id=92D7683F-343A-4C69-9604-96B39068DDCD&team=5) in Antwerp, where best stands for fair play, humor and tactical excellence.
 - Hobby cook
 - 3D Printing, CNC and laser cutting
 
@@ -56,7 +56,7 @@
 - Travel
 
 # Projects for rainy days
-- [metArt](http:://www.metart.be)
+- [metArt](https://gearlux.github.io/metArt/)
 - [WordClock](https://github.com/Gearlux/NeoWordClock)
 - [Deep Learning](https://www.kaggle.com/gearlux)
 
