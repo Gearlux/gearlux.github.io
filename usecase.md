@@ -48,6 +48,10 @@ We use following  [license plate recognizer](https://platerecognizer.com/) to id
 
 Construction of a good image processing pipeline, when done in the correct order, can improve the results of classification and detection networks.
 
+<img src="images/pipeline.png"/>
+
+This particular pipeline contains 4 AI components and some very simple image preprocessing steps.
+
 <a href="denoising.html"><img src="images/prev.png" width="40" height="40"></a>
 <a href="index.html"><img src="images/back.png" width="40" height="40"></a>
 <a href="Portfolio.html"><img src="images/next.png" width="40" height="40"></a>
