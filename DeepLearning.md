@@ -2,37 +2,7 @@
 <a href="index.html"><img src="images/back.png" width="40" height="40"></a>
 <a href="Tomosynthesis.html"><img src="images/next.png" width="40" height="40"></a>
 
-# Personal Details 
-
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-73oq"><a href="https://gearlux.github.io/"><img src="images/Profile.png" width="200" height="150"></a></td>
-    <td class="tg-73oq"><a href="https://gearlux.github.io/">
-                        <img src="images/qr-code.png" width="150" height="150"></a></td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">Name</td>
-    <td class="tg-73oq">Behiels</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">First name</td>
-    <td class="tg-73oq">Gert</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">Date of birth</td>
-    <td class="tg-73oq">Feb 1972</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">Place of residence</td>
-    <td class="tg-73oq">Edegem - Belgium</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">Nationality</td>
-    <td class="tg-73oq">Belgian</td>
-  </tr>
-</thead>
-</table>
+<a href="https://gearlux.github.io/"><img src="images/Profile.png" width="200" height="150"></a>
 
 # Portfolio
 

@@ -1,4 +1,4 @@
-<a href="Ambition.html"><img src="images/next.png" width="40" height="40"></a>
+<a href="nearbAI.html"><img src="images/next.png" width="40" height="40"></a>
 
 # Personal Details 
 
@@ -32,10 +32,6 @@
 </thead>
 </table>
 
-## [Profile and Ambition](Ambition.md)
-## [Education and Courses](Education.md)
-## [Work Experience and Additional Qualifications](Work.md)
-## [Extracurricular Activities and Interests](Extra.md)
 ## [Portfolio](nearbAI.md)
 - [Neural Network Accelerator](nearbAI.md)
 - [SmartXR](Portfolio.md#smartxr)
@@ -44,7 +40,10 @@
 - [DR projects](DR.md)
 - [Mammography](Mammo.md)
 - [...](CR.md)
-
+## [Profile and Ambition](Ambition.md)
+## [Education and Courses](Education.md)
+## [Work Experience and Additional Qualifications](Work.md)
+## [Extracurricular Activities and Interests](Extra.md)
 ## [Publications](Publications.md)
 
-<a href="Ambition.html"><img src="images/next.png" width="40" height="40"></a>
+<a href="nearbAI.html"><img src="images/next.png" width="40" height="40"></a>
